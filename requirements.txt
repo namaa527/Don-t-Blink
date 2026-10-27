@@ -1,0 +1,5 @@
+opencv-python
+numpy
+mediapipe
+# after everyone installs successfully, run: pip freeze > requirements.txt
+# so the whole team uses the same versions
